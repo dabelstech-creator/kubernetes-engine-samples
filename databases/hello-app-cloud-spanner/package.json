@@ -11,8 +11,8 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "@google-cloud/spanner": "^8.6.0",
-    "body-parser": "^1.20.2",
+    "@google-cloud/spanner": "^9.0.0",
+    "body-parser": "^1.20.8",
     "cors": "^2.8.5",
     "express": "^4.21.2"
   }
